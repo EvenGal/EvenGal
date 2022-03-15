@@ -1,5 +1,6 @@
 # Halla! 😎
 
+Jeg heter Even og studerer informatikk ved [Universitetet i Oslo](https://www.uio.no/studier/program/informatikk-programmering/index.html)
 <!--
 **EvenGal/EvenGal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
