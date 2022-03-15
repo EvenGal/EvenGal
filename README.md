@@ -8,7 +8,7 @@
 🧐 Interested in software and web development, and also cybersecurity
 
 <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
-<img width='700' src="https://github-readme-stats.vercel.app/api?username={EvenGal}" />
+<img width='700' src="https://github-readme-stats.vercel.app/api?username=EvenGal" />
 
 ## Contact
 <p align="center">
