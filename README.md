@@ -8,7 +8,6 @@
 🧐 Interested in software and web development, and also cybersecurity
 
 <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
-<img width='700' src="https://github-readme-stats.vercel.app/api?username=EvenGal" />
 
 ## Contact
 <p align="center">
@@ -25,6 +24,7 @@
 
 ## Technologies
 <img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvenGal" />
+<img width='700' src="https://github-readme-stats.vercel.app/api?username=EvenGal" />
 
 ### Familiar with
 *Technologies i have been using a lot, either in school, side projects or work*
