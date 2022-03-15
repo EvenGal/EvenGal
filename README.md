@@ -5,7 +5,7 @@
 
 💻 Jobber også deltid som Software QA tester og utvikler hos [Snapper Net Solutions](https://www.snapper.no/)
 
-<img width='700' src="https://activity-graph.herokuapp.com/graph?username=EvenGal&theme=minimal" />
+<img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
 
 ## Kontakt
 <p align="center">
