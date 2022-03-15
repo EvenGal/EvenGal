@@ -5,6 +5,8 @@
 
 💻 Jobber også deltid som Software QA tester og utvikler hos [Snapper Net Solutions](https://www.snapper.no/)
 
+<img width='700' src="https://activity-graph.herokuapp.com/graph?username=EvenGal&theme=minimal" />
+
 ## Kontakt
 <p align="center">
   <strong> <a href="https://www.linkedin.com/in/even-gal%C3%A5sen-a9565517b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
