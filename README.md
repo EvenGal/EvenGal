@@ -43,7 +43,7 @@
 <a href="https://www.notion.so/product"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### Have used
-*Technologies i have used jeg har benyttet, either in school, side projects or work*
+*Technologies i have used, either in school, side projects or work*
 
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 <a href="https://www.fastify.io/"><img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/></a>
