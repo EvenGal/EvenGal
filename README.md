@@ -61,7 +61,7 @@
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 <a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
-<a href="https://www.w3.org"><img src="https://img.shields.io/badge/w3c%rdf-005A9C?style=for-the-badge&logo=w3&logoColor=white"/></a>
+<a href="https://www.w3.org"><img src="https://img.shields.io/badge/RDF-005A9C?style=for-the-badge&logo=w3&logoColor=white"/></a>
 
 ### Currently learning more about
 *Technologies im currently learning*
