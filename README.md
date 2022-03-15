@@ -23,7 +23,7 @@
 
 
 ## Technologies
-<img width='225' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvenGal" /> <img width='530' src="https://github-readme-stats.vercel.app/api?username=EvenGal" />
+<img width='225' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvenGal" /> <img width='535' src="https://github-readme-stats.vercel.app/api?username=EvenGal" />
 
 ### Familiar with
 *Technologies i have been using a lot, either in school, side projects or work*
