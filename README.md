@@ -5,7 +5,7 @@
 
 💻 I'm also working part-time as a Software QA tester and developer at [Snapper Net Solutions](https://www.snapper.no/)
 
-🧐 Interested in software and web development, and also cybersecurity
+🧐 Interested in software and web development, and cybersecurity
 
 <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
 
