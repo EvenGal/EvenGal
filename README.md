@@ -1,11 +1,11 @@
 # Hi there! 😎
 <img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2EvenGal%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 
-👱 I'm Even, and im currently studying a bachelor in [informatics](https://www.uio.no/studier/program/informatikk-programmering/index.html) at the University of Oslo.
+👱 I'm Even, im currently studying a bachelor in [informatics](https://www.uio.no/studier/program/informatikk-programmering/index.html) at the University of Oslo.
 
 💻 I'm also working part-time as a Software QA tester and system developer at [Snapper Net Solutions](https://www.snapper.no/)
 
-🧐 Interested in software- and web development + cybersecurity
+🧐 Interested in software and web development, and also cybersecurity
 
 <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
 
