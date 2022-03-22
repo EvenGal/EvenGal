@@ -3,7 +3,7 @@
 
 👱 I'm Even, im currently studying a bachelor in [informatics](https://www.uio.no/studier/program/informatikk-programmering/index.html) at the University of Oslo.
 
-💻 I'm also working part-time as a Software QA tester and developer at [Snapper Net Solutions](https://www.snapper.no/)
+💻 I'm also working part-time as a Software QA Tester and Developer at [Snapper Net Solutions](https://www.snapper.no/)
 
 🧐 Interested in software and web development, and cybersecurity
 
