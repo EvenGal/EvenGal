@@ -7,6 +7,8 @@
 
 🧐 Interested in software development and cybersecurity
 
+😎 Currently working towards becoming full-stack
+
 <img width='700' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvenGal&theme=vue" />
 
 ## Contact
